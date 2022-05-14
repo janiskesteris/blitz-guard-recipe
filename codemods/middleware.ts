@@ -1,3 +1,4 @@
+// @ts-nocheck
 // transforms/implicit-icons-to-explicit-imports.ts
 import { Collection } from "jscodeshift/src/Collection"
 import j from "jscodeshift"
